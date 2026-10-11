@@ -83,12 +83,9 @@ Corrects the predicted state vector using a real-time sensor observation to obta
 
 # Handwritten Derivation for Extended Kalman Filter
 <p align="center">
-  <img src="MathsDerivation/ekf_maths_1.jpg" width="48%" alt="EKF Simulation 1">
-  <img src="MathsDerivation/ekf_maths2.jpg" width="48%" alt="EKF Simulation 2">
-</p>
-
-<p align="center">
-  <img src="MathsDerivation/ekf_maths3.jpg.gif" width="60%" alt="EKF Simulation 3">
+  <img src="MathsDerivation/ekf_maths_1.jpg" width="32%" alt="EKF Simulation 1">
+  <img src="MathsDerivation/ekf_maths2.jpg" width="32%" alt="EKF Simulation 2">
+  <img src="MathsDerivation/ekf_maths3.jpg" width="32%" alt="EKF Simulation 3">
 </p>
 
 # Simulation for Non-Linear Path Trajectory samples through Extended Kalman filter
