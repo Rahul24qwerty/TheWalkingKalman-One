@@ -12,7 +12,7 @@ The simulation provides a practical exploration of nonlinear state estimation, u
 # Simulation for Non-Linear Path Trajectory samples through Extended Kalman filter
 <p align="center">
   <img src="Simulations/extended_kalman_filter_path_1.gif" width="48%" alt="EKF Simulation 1">
-  <img src="Simulations/extended_kalman_filter_path_1.gif" width="48%" alt="EKF Simulation 2">
+  <img src="Simulations/extended_kalman_filter_path_2.gif" width="48%" alt="EKF Simulation 2">
 </p>
 
 <p align="center">
