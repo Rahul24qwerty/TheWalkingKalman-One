@@ -81,6 +81,16 @@ Corrects the predicted state vector using a real-time sensor observation to obta
 * $(\cdot)^T$: Matrix transpose operator.
 * $(\cdot)^{-1}$: Matrix inverse operator.
 
+# Handwritten Derivation for Extended Kalman Filter
+<p align="center">
+  <img src="MathsDerivation/ekf_maths_1.jpg" width="48%" alt="EKF Simulation 1">
+  <img src="MathsDerivation/ekf_maths2.jpg" width="48%" alt="EKF Simulation 2">
+</p>
+
+<p align="center">
+  <img src="MathsDerivation/ekf_maths3.jpg.gif" width="60%" alt="EKF Simulation 3">
+</p>
+
 # Simulation for Non-Linear Path Trajectory samples through Extended Kalman filter
 <p align="center">
   <img src="Simulations/extended_kalman_filter_path_1.gif" width="48%" alt="EKF Simulation 1">
