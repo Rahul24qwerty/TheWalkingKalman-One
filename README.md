@@ -120,3 +120,20 @@ $$
 - $I$: Identity matrix.
 - $(\cdot)^T$: Matrix transpose.
 - $(\cdot)^{-1}$: Matrix inverse.
+
+# Handwritten Derivation for Extended Kalman Filter
+<p align="center">
+  <img src="MathsDerivation/ekf_maths_1.jpg" width="32%" alt="EKF Simulation 1">
+  <img src="MathsDerivation/ekf_maths2.jpg" width="32%" alt="EKF Simulation 2">
+  <img src="MathsDerivation/ekf_maths3.jpg" width="32%" alt="EKF Simulation 3">
+</p>
+
+# Simulation for Non-Linear Path Trajectory samples through Extended Kalman filter
+<p align="center">
+  <img src="Simulations/extended_kalman_filter_path_1.gif" width="48%" alt="EKF Simulation 1">
+  <img src="Simulations/extended_kalman_filter_path_2.gif" width="48%" alt="EKF Simulation 2">
+</p>
+
+<p align="center">
+  <img src="Simulations/extended_kalman_filter_path_3.gif" width="60%" alt="EKF Simulation 3">
+</p>
