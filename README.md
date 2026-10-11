@@ -8,3 +8,13 @@ The implementation covers the EKF's two fundamental stages:
 2. Update: Corrects the predicted state using noisy measurements, refining the estimate through measurement residuals and Kalman gain.
 
 The simulation provides a practical exploration of nonlinear state estimation, uncertainty propagation, and the mathematical foundations of Kalman filtering.
+
+# Simulation for Non-Linear Path Trajectory samples through Extended Kalman filter
+<p align="center">
+  <img src="Simulations/extended_kalman_filter_path_1.gif" width="48%" alt="EKF Simulation 1">
+  <img src="Simulations/extended_kalman_filter_path_1.gif" width="48%" alt="EKF Simulation 2">
+</p>
+
+<p align="center">
+  <img src="Simulations/extended_kalman_filter_path_3.gif" width="60%" alt="EKF Simulation 3">
+</p>
