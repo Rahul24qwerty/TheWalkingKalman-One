@@ -1,2 +1,10 @@
 # TheWalkingKalman-One
-Implementation and simulation of an Extended Kalman Filter (EKF) for nonlinear trajectory estimation using Python and NumPy
+This project implements an Extended Kalman Filter (EKF) from first principles to estimate the state of an object following a nonlinear trajectory. The simulation demonstrates how nonlinear motion models and noisy measurements can be combined to estimate an object's position and motion over time.
+
+The implementation covers the EKF's two fundamental stages:
+
+1. Prediction: Propagates the estimated state and uncertainty using a nonlinear motion model and its Jacobian.
+
+2. Update: Corrects the predicted state using noisy measurements, refining the estimate through measurement residuals and Kalman gain.
+
+The simulation provides a practical exploration of nonlinear state estimation, uncertainty propagation, and the mathematical foundations of Kalman filtering.
